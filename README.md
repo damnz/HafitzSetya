@@ -5,8 +5,6 @@
   <a href="https://t.me/hafitzXD">Telegram</a>
 </p>
 
-<p align="left">
-
 <p align="center"><a href="https://t.me/hafitzXD"><img src="https://telegra.ph/file/e961ac905faf8c8bd32b8.png" alt="Hafitz Setya" width="200" height="200"/></a></p>
 
 ### Follow Me
