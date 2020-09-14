@@ -11,16 +11,16 @@
 
 <br/>
 <a href="https://www.facebook.com/martin.rayendra">
-  <img align="left" alt="Hafitz's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+  <img align="center" alt="Hafitz's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
 <a href="https://www.instagram.com/hafitzsetya_21">
-  <img align="left" alt="Hafitz's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img align="center" alt="Hafitz's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
 <a href="https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf?si=qTLQmHMkRgGv2ktdCy6pLQ">
-  <img align="left" alt="Hafitz's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+  <img align="center" alt="Hafitz's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
 <a href="https://t.me/hafitzXD">
-  <img align="right" alt="Hafitz's Telegram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111673.svg" />
+  <img align="center" alt="Hafitz's Telegram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111673.svg" />
 <br /> <br />
 
 ### Stats
