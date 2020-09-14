@@ -7,7 +7,7 @@
 
 - 💬 Ask me about anything, always ready to help.
 - 📫 Find me on Telegram - [@hafitzXD](https://t.me/hafitzXD).
-- 🌐 My website - hafitzsetya.github.io
+- 🌐 My website - [hafitzsetya.github.io](hafitzsetya.github.io)
 - ⚡ Fact: I am a Noobie.
 
 ### Follow Me
