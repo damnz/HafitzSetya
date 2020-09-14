@@ -11,7 +11,8 @@
 
 <h3 align="center">Follow Me</h3>
 
-<h3<br/>
+<h3 align="center">
+<br/>
 <a href="https://www.facebook.com/martin.rayendra">
   <img align="left" alt="Hafitz's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
@@ -21,7 +22,8 @@
 <a href="https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf?si=qTLQmHMkRgGv2ktdCy6pLQ">
   <img align="left" alt="Hafitz's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
-<br /> <br /> </h3>
+<br /> <br />
+</h3>
 
 ### Stats
 <details>
