@@ -1,4 +1,5 @@
-## Hello 👋, I'm Hafitz Setya
+
+<h3 align="center">👋 Hi there! I'm Hafitz Setya</h3>
 
 
 <p align="left">
