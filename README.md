@@ -9,11 +9,6 @@
 
 <p align="center"><a href="https://t.me/hafitzXD"><img src="https://telegra.ph/file/e961ac905faf8c8bd32b8.png" alt="Hafitz Setya" width="200" height="200"/></a></p>
 
-- 🇮🇩 I'am from Indonesia.
-- 📫 Find me on Telegram - [@hafitzXD](https://t.me/hafitzXD)
-- 🌐 My pages - [https://hafitzsetya.github.io](https://hafitzsetya.github.io)
-- ⚡ Fact: I am a Noobie.
-
 ### Follow Me
 
 <br/>
@@ -30,6 +25,6 @@
 
 ### Stats
 <details>
-  <summary>Click Here </summary>
+  <summary>Click Here</summary>
 
 ![Hafitz's github stats](https://github-readme-stats.vercel.app/api?username=HafitzSetya&show_icons=true&hide_border=true)
