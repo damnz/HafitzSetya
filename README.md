@@ -9,7 +9,7 @@
 
 <p align="center"><a href="https://t.me/hafitzXD"><img src="https://telegra.ph/file/e961ac905faf8c8bd32b8.png" alt="Hafitz Setya" width="200" height="200"/></a></p>
 
-<h3 align="center">Follow Me
+### Follow Me
 
 <br/>
 <a href="https://www.facebook.com/martin.rayendra">
@@ -22,7 +22,6 @@
   <img align="left" alt="Hafitz's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
 <br /> <br />
-</h3>
 
 ### Stats
 <details>
