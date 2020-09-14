@@ -24,9 +24,6 @@
 </a>
 <br /> <br />
 
-<a href="https://t.me/hafitzXD">
-  <img align="left" alt="Hafitz's Telegram" width="30px" src="<svg><use xlink:href="#telegram"/></svg>" />
-
 ### Stats
 <details>
   <summary>Click Here </summary>
