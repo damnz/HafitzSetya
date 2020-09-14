@@ -5,8 +5,7 @@
 
 <p align="center"><a href="https://t.me/hafitzXD"><img src="https://telegra.ph/file/e961ac905faf8c8bd32b8.png" alt="Hafitz Setya" width="200" height="200"/></a></p>
 
-- 🇮🇩 I'am from Indonesia
-- 💬 Ask me about anything, always ready to help.
+- 🇮🇩 I'am from Indonesia.
 - 📫 Find me on Telegram - [@hafitzXD](https://t.me/hafitzXD)
 - 🌐 My pages - [https://hafitzsetya.github.io](https://hafitzsetya.github.io)
 - ⚡ Fact: I am a Noobie.
