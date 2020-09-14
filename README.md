@@ -11,7 +11,6 @@
 
 ### Follow Me
 
-<p align="center">
 <br/>
 <a href="https://www.facebook.com/martin.rayendra">
   <img align="left" alt="Hafitz's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
