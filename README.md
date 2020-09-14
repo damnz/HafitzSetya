@@ -7,7 +7,7 @@
 
 <p align="center"><a href="https://t.me/hafitzXD"><img src="https://telegra.ph/file/e961ac905faf8c8bd32b8.png" alt="Hafitz Setya" width="200" height="200"/></a></p>
 
-<p align="center">
+<h3 align="center">
 <br/>
 <a href="https://www.facebook.com/martin.rayendra">
   <img align="left" alt="Hafitz's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
@@ -18,7 +18,7 @@
 <a href="https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf?si=qTLQmHMkRgGv2ktdCy6pLQ">
   <img align="left" alt="Hafitz's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
-</p>
+</h3>
 <br /> <br />
 
 ### Stats
