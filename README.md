@@ -6,7 +6,7 @@
 <p align="center"><a href="https://t.me/hafitzXD"><img src="https://telegra.ph/file/e961ac905faf8c8bd32b8.png" alt="Hafitz Setya" width="200" height="200"/></a></p>
 
 - 💬 Ask me about anything, always ready to help.
-- 📫 Find me on Telegram - [@hafitzXD](https://t.me/hafitzXD).
+- 📫 Find me on Telegram - [@hafitzXD](https://t.me/hafitzXD)
 - 🌐 My website - [hafitzsetya.github.io](hafitzsetya.github.io)
 - ⚡ Fact: I am a Noobie.
 
