@@ -22,7 +22,6 @@
 <a href="https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf?si=qTLQmHMkRgGv2ktdCy6pLQ">
   <img align="left" alt="Hafitz's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
-</p>
 <br /> <br />
 
 ### Stats
